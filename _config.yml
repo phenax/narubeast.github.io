@@ -7,7 +7,7 @@ paginate: 2 #6
 comments: true
 paginate_path: "/page/:num"
 
-baseurl: "" # change to empty string ""
+baseurl: "https://narubeast.github.io/" # change to empty string ""
 domain_name: nandomoreira.me
 google_analytics: UA-52446115-1
 
