@@ -10,7 +10,7 @@ baseurl: "/" # change to empty string ""
 domain_name: nandomoreira.me
 google_analytics: UA-52446115-1
 
-source:      source
+source: source
 destination: _site
 
 # cover: /assets/images/header-cover.png
