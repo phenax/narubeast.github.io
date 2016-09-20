@@ -1,6 +1,6 @@
 permalink   : /:title/
 markdown    : kramdown
-highlighter : rouge
+highlighter : null
 
 paginate: 2 #6
 comments: true
