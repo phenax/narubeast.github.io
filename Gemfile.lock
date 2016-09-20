@@ -28,7 +28,6 @@ GEM
     fastimage (1.7.0)
       addressable (~> 2.3, >= 2.3.5)
     ffi (1.9.10)
-    ffi (1.9.10-x86-mingw32)
     hike (1.2.3)
     jekyll (2.5.3)
       classifier-reborn (~> 2.0)
@@ -96,12 +95,10 @@ GEM
     tilt (1.4.1)
     toml (0.1.2)
       parslet (~> 1.5.0)
-    wdm (0.1.1)
     yajl-ruby (1.2.1)
 
 PLATFORMS
   ruby
-  x86-mingw32
 
 DEPENDENCIES
   compass (~> 1.0.3)
@@ -109,7 +106,6 @@ DEPENDENCIES
   jekyll-assets
   rake (~> 10.4.2)
   sass (~> 3.4.10)
-  wdm (>= 0.1.0)
 
 BUNDLED WITH
-   1.13.1
+   1.10.6

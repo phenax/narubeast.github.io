@@ -1,13 +1,12 @@
-highlighter: null
 permalink   : /:title/
 markdown    : kramdown
-#highlighter : pygments
+highlighter : pygments
 
 paginate: 2 #6
 comments: true
 paginate_path: "/page/:num"
 
-baseurl: "https://narubeast.github.io/" # change to empty string ""
+baseurl: "/nandomoreira-jekyll-theme" # change to empty string ""
 domain_name: nandomoreira.me
 google_analytics: UA-52446115-1
 
@@ -48,7 +47,7 @@ thought:
 # Plugin: jekyll-assets
 assets:
   dirname: /assets
-  baseurl: /assets/ # change to /assets/
+  baseurl: /nandomoreira-jekyll-theme/assets/ # change to /assets/
   sources:
     - assets/images
     - assets/fonts
