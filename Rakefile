@@ -5,7 +5,7 @@ require "bundler/setup"
 require "jekyll"
 
 # Change your GitHub reponame
-GITHUB_REPONAME = "narubeast.github.io"
+GITHUB_REPONAME = "NaruBeast/narubeast.github.io"
 GITHUB_REPO_BRANCH = "master"
 
 SOURCE = "source/"
